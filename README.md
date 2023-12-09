@@ -54,18 +54,39 @@
 ## Featured Projects:
 ### Restaurant (Food Fantasia)
 Live Link:  https://assignment11-restaurant.web.app
+
 Client side: https://github.com/Shahidul-Islam-Jony/Assignment11-Restaurant-Client
 
 Server side: https://github.com/Shahidul-Islam-Jony/Assignment11-Restaurant-Server
 
 #### Features Of Projects:
-- You can see and ordered all food of our restaurant
-- You can register and add food to restaurant
-- You can choose breakfast Lunch or Dinner from our restaurant site
-- You can see your added food and also update your added food
-- You can see your ordered food also and if you need you can delete your ordered food
+- User can see and ordered all food of our restaurant
+- User can register and add food to restaurant
+- User can choose breakfast Lunch or Dinner from our restaurant site
+- User can see him/her added food and also update his/her added food
+- User can see his ordered food also and if user need he can delete his ordered food
 #### Techonology that I used in this Projects:
 - Front-end: React, tailwind, javascript,Firebase
 - Back-end: Mongodb, Express.js
 
+<br/>
 
+### Parcel Management (Parcel Point)
+Live Link: https://assignment-12-aa1be.web.app/
+
+Client side: https://github.com/Shahidul-Islam-Jony/Assignment12-Parcel-Management-Client
+
+Server side: https://github.com/Shahidul-Islam-Jony/Assignment12-Parcel-Management-Server
+
+#### Features Of Projects:
+- In this Project there are Admin ,User , Deliveryman specific dashboard
+- User can login and parcel his product
+- User can see parcel status condition
+- User can give feedack for delivery man
+- An User can join as delevery Man.
+- Admin Can see All user and all delivery man
+- Delivery man can see his delivery parcel
+
+#### Techonology that I used in this Projects:
+- Front-end: React, tailwind, javascript,Firebase
+- Back-end: Mongodb,Mongoose, Express.js
