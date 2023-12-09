@@ -7,7 +7,15 @@
 <!-- <p style="color:white;position:absolute; top:30px; left:100px; font-size:20px">Shahidul Islam</p>
 <p style="color:white;position:absolute; font-size:16px;top:200px; left:100px">Web Developer</p> -->
 
+## About Me:
+<p>
+    I am a junior MERN stack web developer. I want to create user interactiveand AI based website. I am constantly making myself accordingly.Every day I try to learn something new.
+</p>
+
 ## Current Stats:
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahidul-Islam-Jony&theme=whatsapp-dark2"/>
 </p>
+
+
+##  Technologies that I know :
