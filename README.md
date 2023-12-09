@@ -24,8 +24,9 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahidul-Islam-Jony&theme=whatsapp-dark2"/>
 </p>
-<p>
+<p align='center'>
 <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahidul-Islam-Jony&theme=monokai'/>
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahidul-Islam-Jony&theme=monokai/'>
 </p>
 <br/>
 
