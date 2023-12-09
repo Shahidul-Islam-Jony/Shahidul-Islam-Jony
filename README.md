@@ -19,3 +19,14 @@
 
 
 ##  Technologies that I know :
+
+<p>
+<img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/css.png"/>
+<img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/express.png"/>
+<img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/firebase.png"/>
+<img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/firebase.png"/>
+<img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/mongo.png"/>
+
+
+</p>
