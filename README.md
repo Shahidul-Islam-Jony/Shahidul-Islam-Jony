@@ -26,7 +26,6 @@
 </p>
 <p align='center'>
 <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahidul-Islam-Jony&theme=monokai'/>
-<img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahidul-Islam-Jony&theme=monokai/'>
 </p>
 <br/>
 
