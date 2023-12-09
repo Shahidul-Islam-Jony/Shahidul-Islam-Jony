@@ -15,8 +15,8 @@
 ## Contact with me:
 <p align='center'>
    <a href='https://www.facebook.com/profile.php?id=100007891637711'><img src='https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/facebook.png'></a>
-   <a href='https://www.facebook.com/profile.php?id=100007891637711'><img src='https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/linkedin.png'></a>
-   <a href='https://www.facebook.com/profile.php?id=100007891637711'><img src='https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/twitter.png'></a>
+   <a href='https://www.linkedin.com/in/shahidul-islam-7262122a4/'><img src='https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/linkedin.png'></a>
+   <a href=''><img src='https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/twitter.png'></a>
 </p>
 <br/>
 
