@@ -90,3 +90,23 @@ Server side: https://github.com/Shahidul-Islam-Jony/Assignment12-Parcel-Manageme
 #### Techonology that I used in this Projects:
 - Front-end: React, tailwind, javascript,Firebase
 - Back-end: Mongodb,Mongoose, Express.js
+
+<br/>
+
+### Brand Shop (TechEshop)
+Live Link:  https://assignment10-client-side.web.app/
+
+Client side: https://github.com/Shahidul-Islam-Jony/Assignment10-Brand-Shop-TechEshop-Client-Side
+
+Server side: https://github.com/Shahidul-Islam-Jony/Assignment10-Brand-Shop-TechEshop-Server-Side
+
+You can see brand products of Technology and Electronics.
+#### Features Of Projects:
+- You can create account and buy products.
+- If you logged in you can add and update products
+- You can Troggle dark and light theme
+- You can see Latest Products of top brands
+
+#### Techonology that I used in this Projects:
+- Front-end: React, tailwind, javascript,Firebase
+- Back-end: Mongodb, Express.js
