@@ -13,16 +13,18 @@
 </p>
 
 ## Contact with me:
-<p>
-    [(https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/facebook.png)](https://www.facebook.com/profile.php?id=100007891637711)
+<p align='center'>
+   <a href='https://www.facebook.com/profile.php?id=100007891637711'><img src='https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/facebook.png'></a>
+   <a href='https://www.facebook.com/profile.php?id=100007891637711'><img src='https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/linkedin.png'></a>
+   <a href='https://www.facebook.com/profile.php?id=100007891637711'><img src='https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/twitter.png'></a>
 </p>
+<br/>
 
 ## Current Stats:
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahidul-Islam-Jony&theme=whatsapp-dark2"/>
 </p>
 <br/>
-
 ##  Technologies that I know :
 
 <p align='center'>
