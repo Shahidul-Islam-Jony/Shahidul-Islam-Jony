@@ -24,6 +24,9 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahidul-Islam-Jony&theme=whatsapp-dark2"/>
 </p>
+<p>
+<img src='![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahidul-Islam-Jony&theme=monokai)'/>
+</p>
 <br/>
 
 ## Techonologies that I use :
