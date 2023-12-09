@@ -25,8 +25,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahidul-Islam-Jony&theme=whatsapp-dark2"/>
 </p>
 <br/>
-##  Technologies that I know :
 
+## Techonologies that I use :
+#### Front-end: (HTML,CSS,Tailwind,React,JavaScript)
+#### Back-end: (Node.js,Express.js)
+#### Database Management: (MongoDB,Mongoose)
+
+<br/>
+
+## Technologies that I know :
 <p align='center'>
 <img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/css.png"/>
