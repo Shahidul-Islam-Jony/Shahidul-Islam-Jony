@@ -16,17 +16,22 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahidul-Islam-Jony&theme=whatsapp-dark2"/>
 </p>
-
+<br/>
 
 ##  Technologies that I know :
 
-<p>
+<p align='center'>
+<img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/css.png"/>
 <img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/express.png"/>
 <img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/firebase.png"/>
-<img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/firebase.png"/>
 <img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/JavaScript.png"/>
 <img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/mongo.png"/>
-
-
+</p>
+<p align='center'>
+<img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/node.png"/>
+<img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/react.png"/>
+<img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/c.png"/>
+<img src="https://github.com/Shahidul-Islam-Jony/Shahidul-Islam-Jony/blob/main/images/icons/cpp.png"/>
 </p>
